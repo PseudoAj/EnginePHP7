@@ -25,7 +25,7 @@ echo -e "----Installed MySQL----\n\n"
 yum -y install mod_auth_kerb mod_auth_mysql mod_authz_ldap mod_evasive mod_perl mod_security mod_ssl mod_wsgi
 echo -e "----Installed Auth Plugins for MySQL----\n\n"
 
-yum install php70w php70w-opcache
+yum -y install php70w php70w-bcmath php70w-cli php70w-common php70w-gd php70w-ldap php70w-mbstring php70w-mcrypt php70w-mysql php70w-odbc php70w-pdo php70w-pear php70w-pear-Benchmark php70w-pecl-apc php70w-pecl-imagick php70w-pecl-memcache php70w-soap php70w-xml php70w-xmlrpc
 echo -e "----Installed PHP 7----\n\n"
 
 wget https://phar.phpunit.de/phpunit.phar
