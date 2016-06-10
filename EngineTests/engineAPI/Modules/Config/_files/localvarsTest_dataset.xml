@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<dataset>
+    <localvarsTest id="1" content="foo" user="John" created="2010-04-24 17:15:23" />
+    <localvarsTest id="2" content="bar" user="Smith" created="2010-04-26 12:14:20" />
+</dataset>

@@ -1,0 +1,22 @@
+[Tue Mar 01 13:55:43 2016] [notice] suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Mar 01 13:55:43 2016] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 01 13:55:43 2016] [notice] Digest: done
+[Tue Mar 01 13:55:44 2016] [notice] Apache/2.2.15 (Unix) DAV/2 mod_auth_kerb/5.4 mod_ssl/2.2.15 OpenSSL/1.0.1e-fips mod_wsgi/3.2 Python/2.6.6 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue Mar 01 13:57:44 2016] [error] [client 10.0.2.2] PHP Fatal error:  db::create() Failed to load driver! thrown from line 92 in /vagrant/engine/engineAPI/latest/modules/db/db.php on line 104
+[Tue Mar 01 13:57:54 2016] [error] [client 10.0.2.2] File does not exist: /home/engineAPI/public_html/tests
+[Tue Mar 01 13:57:55 2016] [error] [client 10.0.2.2] File does not exist: /home/engineAPI/public_html/favicon.ico, referer: http://localhost:8080/tests
+[Tue Mar 01 13:58:05 2016] [error] [client 10.0.2.2] File does not exist: /home/engineAPI/public_html/tests
+[Tue Mar 01 13:58:10 2016] [error] [client 10.0.2.2] PHP Fatal error:  db::create() Failed to load driver! thrown from line 92 in /vagrant/engine/engineAPI/latest/modules/db/db.php on line 104
+[Tue Mar 01 14:02:07 2016] [error] [client 10.0.2.2] File does not exist: /home/engineAPI/public_html/Tests
+[Tue Mar 01 14:02:25 2016] [error] [client 10.0.2.2] PHP Fatal error:  db::create() Failed to load driver! thrown from line 92 in /vagrant/engine/engineAPI/latest/modules/db/db.php on line 104
+[Tue Mar 01 14:05:03 2016] [error] [client 10.0.2.2] PHP Fatal error:  db::create() Failed to load driver! thrown from line 92 in /vagrant/engine/engineAPI/latest/modules/db/db.php on line 104
+[Tue Mar 01 14:05:30 2016] [error] [client 10.0.2.2] PHP Fatal error:  db::create() Failed to load driver! thrown from line 92 in /vagrant/engine/engineAPI/latest/modules/db/db.php on line 104
+[Tue Mar 01 14:07:45 2016] [error] [client 10.0.2.2] PHP Fatal error:  db::create() Failed to load driver! thrown from line 92 in /vagrant/engine/engineAPI/latest/modules/db/db.php on line 104
+[Tue Mar 01 14:19:16 2016] [error] [client 10.0.2.2] PHP Fatal error:  db::create() Failed to load driver! thrown from line 92 in /vagrant/engine/engineAPI/latest/modules/db/db.php on line 104
+[Tue Mar 01 14:21:14 2016] [error] [client 10.0.2.2] PHP Fatal error:  db::create() Failed to load driver! thrown from line 92 in /vagrant/engine/engineAPI/latest/modules/db/db.php on line 104
+[Tue Mar 01 14:42:04 2016] [error] [client 10.0.2.2] PHP Fatal error:  db::create() Failed to load driver! thrown from line 92 in /vagrant/engine/engineAPI/latest/modules/db/db.php on line 104
+[Tue Mar 01 16:38:27 2016] [notice] suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Mar 01 16:38:27 2016] [notice] Digest: generating secret for digest authentication ...
+[Tue Mar 01 16:38:27 2016] [notice] Digest: done
+[Tue Mar 01 16:38:27 2016] [notice] Apache/2.2.15 (Unix) DAV/2 mod_auth_kerb/5.4 mod_ssl/2.2.15 OpenSSL/1.0.1e-fips mod_wsgi/3.2 Python/2.6.6 mod_perl/2.0.4 Perl/v5.10.1 configured -- resuming normal operations
+[Tue Mar 01 16:41:04 2016] [error] [client 10.0.2.2] PHP Fatal error:  db::create() Failed to load driver! thrown from line 92 in /vagrant/engine/engineAPI/latest/modules/db/db.php on line 104
